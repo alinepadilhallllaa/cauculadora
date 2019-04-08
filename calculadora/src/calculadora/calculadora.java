@@ -14,5 +14,14 @@ public class calculadora {
       double soma = a + b;
       double sub = a - b;
       double mul = a * b;
+      double div = a / b;
+      //mostrando o resultado das quatro operações básicas
+      JOptionPane.showMessageDialog(null,
+            "Soma: " + soma + "\n" +
+            "Subtração: " + sub + "\n" +
+            "Multiplicação: " + mul + "\n" +
+            "Divisão: " + div
+      );
    }
-}	
+}
+	
