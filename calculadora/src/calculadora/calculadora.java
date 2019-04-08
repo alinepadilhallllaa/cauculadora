@@ -12,5 +12,6 @@ public class calculadora {
       double b = Double.parseDouble(numB);
       //calculando
       double soma = a + b;
+      double sub = a - b;
    }
 }	
