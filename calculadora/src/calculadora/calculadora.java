@@ -13,5 +13,6 @@ public class calculadora {
       //calculando
       double soma = a + b;
       double sub = a - b;
+      double mul = a * b;
    }
 }	
